@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,OAAO;EACnB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,KAAK;CAAG;;AAEnB,AAAA,GAAG,CAAC;EACA,aAAa,EAAE,IAAI;EACnB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,KAAK;CAAG",
+    "sources": [
+        "exercise_5.sass"
+    ],
+    "names": [],
+    "file": "exercise_5.css"
+}

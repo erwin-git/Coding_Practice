@@ -13,4 +13,4 @@ fetch('https://api.thecatapi.com/v1/images/search')
             document.getElementById('error').innerHTML = "ERROR";
 
         }
-    })    
+    });    
